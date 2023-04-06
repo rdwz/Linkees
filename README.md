@@ -1,11 +1,15 @@
-<table>
-<tr >
-    <th><img src="https://s3.us-east-2.amazonaws.com/fueler.io-images/fueler-creatons/ZO3GUmNNWMJL8vuRQMQIDs7ConJCktJOOo0xTjgr.png" width="50px" height="50px" style="display:inline-block; "/></th>
-    <th><h1>&ensp;Linkees</h1></th>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://s3.us-east-2.amazonaws.com/fueler.io-images/fueler-creatons/ZO3GUmNNWMJL8vuRQMQIDs7ConJCktJOOo0xTjgr.png" width="60px" height="60px" style=" float:left;"/>&ensp; <h1>Linkees</h1> 
 
 [![Generic badge](https://img.shields.io/badge/BUILD-Success-<COLOR>.svg?logo=github)](https://vercel.com/heysagnik/bio/deployments) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/heysagnik.svg?style=social&label=Follow%20%40heysagnik)](https://twitter.com/heysagnik)
+
+<em><b>
+
+ Actively maintained by [@taksuparth](https://github.com/taksuparth)
+
+</b></em>
+</div>
 
 ## About 🎯
 
@@ -45,7 +49,7 @@ import { Linkees } from 'linkees';
 
 4. Deploy to Vercel or any other platform and Enjoy!
   
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fheysagnik%2FLinkees)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fheysagnik%2FLinkees&&install-command=npm%20install%20%20--legacy-peer-deps)
 
 #### We also support ***Docker 🐳*** .For more details read [this](https://github.com/heysagnik/Linkees/blob/master/docker.md). 
 
